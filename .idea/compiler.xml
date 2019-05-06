@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="design-pattern_main" target="1.8" />
+      <module name="design-pattern_test" target="1.8" />
+      <module name="factory-method_main" target="1.8" />
+      <module name="factory-method_test" target="1.8" />
+      <module name="simple-factory_main" target="1.8" />
+      <module name="simple-factory_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
