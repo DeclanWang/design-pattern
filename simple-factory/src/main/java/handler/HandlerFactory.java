@@ -1,4 +1,4 @@
-package hander;
+package handler;
 
 import constant.HandlerTypeEnum;
 import lombok.extern.slf4j.Slf4j;
@@ -12,7 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 @Slf4j
 public class HandlerFactory {
 
-    private static final String HANDLER_BEAN_NAME_FORMAT = "%sHandler";
+    private static final String HANDLER_BEAN_NAME_FORMAT = "handler.%sHandler";
 
     public static Handler loadHandler(HandlerTypeEnum type) {
         Handler handler = null;
