@@ -11,6 +11,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/abstract-factory" />
             <option value="$PROJECT_DIR$/builder" />
+            <option value="$PROJECT_DIR$/object-pool" />
             <option value="$PROJECT_DIR$/simple-factory" />
           </set>
         </option>

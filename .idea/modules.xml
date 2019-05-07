@@ -9,7 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder.iml" filepath="$PROJECT_DIR$/.idea/modules/builder.iml" group="builder" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder/builder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/builder/builder_main.iml" group="builder" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/builder/builder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/builder/builder_test.iml" group="builder" />
-      <module fileurl="file://$PROJECT_DIR$/design-pattern.iml" filepath="$PROJECT_DIR$/design-pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/object-pool.iml" filepath="$PROJECT_DIR$/.idea/modules/object-pool.iml" group="object-pool" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/object-pool/object-pool_main.iml" filepath="$PROJECT_DIR$/.idea/modules/object-pool/object-pool_main.iml" group="object-pool" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/object-pool/object-pool_test.iml" filepath="$PROJECT_DIR$/.idea/modules/object-pool/object-pool_test.iml" group="object-pool" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-factory/simple-factory.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-factory/simple-factory.iml" group="simple-factory" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-factory/simple-factory_main.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-factory/simple-factory_main.iml" group="simple-factory" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/simple-factory/simple-factory_test.iml" filepath="$PROJECT_DIR$/.idea/modules/simple-factory/simple-factory_test.iml" group="simple-factory" />

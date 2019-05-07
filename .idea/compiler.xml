@@ -9,6 +9,8 @@
       <module name="abstract-factory_test" target="1.8" />
       <module name="builder_main" target="1.8" />
       <module name="builder_test" target="1.8" />
+      <module name="object-pool_main" target="1.8" />
+      <module name="object-pool_test" target="1.8" />
       <module name="simple-factory_main" target="1.8" />
       <module name="simple-factory_test" target="1.8" />
     </bytecodeTargetLevel>
