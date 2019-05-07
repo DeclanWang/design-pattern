@@ -15,6 +15,8 @@ public class Main {
             System.out.println(resultSet.getInt("age"));
         }
 
+        resultSet.close();
+        ps.close();
         pool.returnOne(connection);
     }
 }
